@@ -7,26 +7,4 @@
 - 🐍 **Python (Medium)**
 - ☕ **Java (Basic)**
 
-### ☠ Mis Redes Maldito Vico
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-### 🔧 Que sabras tu de lenguajes $$$$
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
-<br />
-<br />
-
----
-
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/DenebS4c" />
-</p>
-
-[twitter]: https://twitter.com/zGhosty_
-[telegram]: https://t.me/zGhosty
-[youtube]: https://youtube.com/zGhosty
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenebS4c&show_icons=true&theme=dark)
