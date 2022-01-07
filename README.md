@@ -1,6 +1,4 @@
-### 🕷 Deneb007, 
-
-### 🗡 Que sabras tu de programacion $$$$$
+### 🕷 DenebS4c,
 
 <div align="center">
   <a href="https://github.com/DenebS4c">
@@ -9,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/705248947005816944/929125168201203712/f4e07169725bd263ba6c153754fab360.png">
 </div>
   
   ##
