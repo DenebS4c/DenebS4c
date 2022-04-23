@@ -2,6 +2,7 @@
 #
 <div align="center">
   <a href="https://github.com/DenebS4c">
+      [![](https://discord.c99.nl/widget/theme-4/698219671597482014.png)]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenebS4c&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenebS4c&layout=compact&langs_count=7&theme=dark"/>
 </div>
