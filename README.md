@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/705248947005816944/929125168201203712/f4e07169725bd263ba6c153754fab360.png">
 </div>
-  <img height="80em" src="https://discord.c99.nl/widget/theme-4/698219671597482014.png"/>
+  
   ##
  
 <div> 
@@ -22,3 +22,4 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img height="80em" src="https://discord.c99.nl/widget/theme-4/698219671597482014.png"/>
