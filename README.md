@@ -22,4 +22,4 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<img height="80em" src="[https://discord.c99.nl/widget/theme-4/698219671597482014.png](https://discord.c99.nl/widget/theme-1/651431091940491295.png)"/>
+<img height="80em" src="https://discord.c99.nl/widget/theme-1/651431091940491295.png"/>
